@@ -1,5 +1,4 @@
-# EthioMart: Amharic Entity Extraction for Telegram Commerce
-
+# EthioMart: Building an Amharic E-commerce Data Extractor
 ## Project Summary
 
 EthioMart is a unified platform for e-commerce activities on Telegram in Ethiopia. It identifies key entities—such as products, prices, and locations—from Amharic Telegram channels. This repository contains a complete Amharic Named Entity Recognition (NER) system, including data extraction, model development, and business insights generation.
